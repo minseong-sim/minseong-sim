@@ -1,16 +1,18 @@
-## Hi there 👋
+## 👋 Hi, I'm Minseong Sim
 
-<!--
-**minseong-sim/minseong-sim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science & Engineering student at UNSW  
+💻 Interested in Software Engineering, Systems, and Cyber Security  
+🌏 Currently studying in Australia
 
-Here are some ideas to get you started:
+### 🛠 Skills
+- Languages: C, Java, Python
+- Concepts: Data Structures, Algorithms, OOP
+- Tools: Git, Linux, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📂 Projects
+- Data Structures Practice (C)
+- Web Application (JavaScript)
+- Algorithm Implementations
+
+📫 Contact: (optional)
+- Email: your_email
