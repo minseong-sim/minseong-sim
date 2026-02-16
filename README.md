@@ -4,15 +4,35 @@
 💻 Interested in Software Engineering, Systems, and Cyber Security  
 🌏 Currently studying in Australia
 
-### 🛠 Skills
-- Languages: C, Java, Python
-- Concepts: Data Structures, Algorithms, OOP
-- Tools: Git, Linux, VS Code
+## 🛠 Technical Skills
 
-### 📂 Projects
-- Data Structures Practice (C)
-- Web Application (JavaScript)
-- Algorithm Implementations
+**Languages:** Python, C, Java  
+**Concepts:** Data Structures, Algorithms, Networking (TCP/IP, HTTP), Cyber Security Fundamentals  
+**Tools:** Git, Linux, Wireshark, VS Code  
 
-📫 Contact: (optional)
-- Email: t50342431@gmail.com
+---
+
+## 🚀 Featured Project
+
+### 🔎 Log Parser & Analysis Tool (Python) – *Ongoing*
+
+A Python-based log analysis tool designed to process large log files and extract meaningful insights.
+
+- Parses structured and semi-structured log data
+- Uses regular expressions for automated filtering
+- Identifies errors and performance anomalies
+- Designed with modular, maintainable architecture
+
+> Currently expanding features for advanced pattern detection and performance analysis.
+
+---
+
+## 📈 Currently Learning
+
+- Network traffic analysis  
+- Secure systems design  
+- Data-driven decision making  
+
+---
+
+📫 Contact: t50342431@gmail.com
