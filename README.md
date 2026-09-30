@@ -14,25 +14,4 @@
 
 ## 🚀 Featured Project
 
-### 🔎 Log Parser & Analysis Tool (Python) – *Ongoing*
-
-A Python-based log analysis tool designed to process large log files and extract meaningful insights.
-
-- Parses structured and semi-structured log data
-- Uses regular expressions for automated filtering
-- Identifies errors and performance anomalies
-- Designed with modular, maintainable architecture
-
-> Currently expanding features for advanced pattern detection and performance analysis.
-
----
-
-## 📈 Currently Learning
-
-- Network traffic analysis  
-- Secure systems design  
-- Data-driven decision making  
-
----
-
 📫 Contact: t50342431@gmail.com
